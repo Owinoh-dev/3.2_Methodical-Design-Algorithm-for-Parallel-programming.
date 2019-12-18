@@ -1,0 +1,2 @@
+# 3.2_Methodical-Design-Algorithm-for-Parallel-programming.
+Methodical Design Most programming problems have several parallel solutions. The best solution may differ from that suggested by existing sequential algorithms. The design methodology includes machine-independent issues such as concurrency machine-specific aspects of design. This methodology structures the design process as four distinct stages:  partitioning, communication,  agglomeration, and  mapping. 
